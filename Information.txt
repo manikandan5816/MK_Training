@@ -1,11 +1,5 @@
 This is my initial commit
-
-
 1) I am committing this to check CI/CD workflow
-
 2) I am committing to check CI/CD failing case because of branch policies
-
-
 3) checking test failure
-
 4) checking CICD failure with new branch
